@@ -154,8 +154,7 @@ blockquote {
     background-color: $gray-light;
     background: no-repeat center center;
     background-attachment: scroll;
-    @inlcude background-cover;
-    // NOTE: Background images are set within the HTML using inline CSS!
+    @inlcude background-cover;  // NOTE: Background images are set within the HTML using inline CSS!
     margin-bottom: 50px;
     .site-heading,
     .post-heading,
